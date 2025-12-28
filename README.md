@@ -1,6 +1,8 @@
 # ZIHR
 Zero-inflation hurdle regression models Use ZIHR (UHM) With (In) R Software
 
+ZIHR (UHM) With (In) R Software
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
