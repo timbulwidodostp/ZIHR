@@ -1,7 +1,7 @@
 # ZIHR
 Zero-inflation hurdle regression models Use ZIHR (UHM) With (In) R Software
 
-ZIHR (UHM) With (In) R Software
+https://www.youtube.com/watch?v=KtMFJGNghvk
 
 Olah Data Semarang
 
